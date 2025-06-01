@@ -19,7 +19,6 @@ except ImportError:
         exit(1)
 import sys
 import importlib
-
 class autotask_android():
     def __init__(self):
         self.prefix=self.__class__.__name__ # 类的名字

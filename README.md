@@ -26,9 +26,12 @@ none
 
 ### 基于浏览器的签到
 * *注: 本脚本于via-5.9.0测试通过, 需开启桌面模式、全屏、浏览器标识(windows/chrome),其他浏览器自行替换图片资源*
+* **脚本现在通过打开url执行, 而不是打开浏览器, 再点击网页, 因此需要配置via为默认的浏览器**
 * 只能在境内的模拟器/容器内执行, 这些网站在不同地区显示的内容不同.
 * `web_ablesci`, [科研通](https://www.ablesci.com/)每日签到
-* `web_muchong`, [小木虫](https://muchong.com/bbs/)每日签到
+* `web_muchong`, ~~[小木虫](https://muchong.com/bbs/)每日签到~~
+
+![连续签到50天](https://private-user-images.githubusercontent.com/174871503/397235351-c1a55b1f-a8f0-4370-aec5-211ef40a1564.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ1ODY3NzUsIm5iZiI6MTczNDU4NjQ3NSwicGF0aCI6Ii8xNzQ4NzE1MDMvMzk3MjM1MzUxLWMxYTU1YjFmLWE4ZjAtNDM3MC1hZWM1LTIxMWVmNDBhMTU2NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxOVQwNTM0MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NWE2NDU5ZjVmNzQxODgzNmQ5YjJkNTg2NzAxNzFkMWZhNTE5NmM0OTRmZGM4NDA2NmFmMjM0OGExNGI4NTZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dt6sksZbmDukgtwRmvqSPf9T0mvvmhLL7F_ZIMtU88w)
 
 ### 基于app的签到
 * `app_alicloud`, 阿里云盘每日签到(横屏版960x540)

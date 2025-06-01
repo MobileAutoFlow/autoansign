@@ -123,6 +123,7 @@ class web_muchong():
             self.run()
 
 def main():
+    TimeECHO("莫名其妙账户无法登录了,加上数年未使用过该平台,因此本脚本停止维护.")
     config_file = ""
     if len(sys.argv) > 1:
         config_file = str(sys.argv[1])
