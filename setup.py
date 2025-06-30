@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='autoansign',
-    version='0.0.2',
+    version='1.2',
     # 版本号后缀说明：
     # - a1：早期测试版（Alpha 版本）
     # - b1：功能较完整但可能有问题的测试版（Beta 版本）
@@ -31,6 +31,7 @@ setup(
         'console_scripts': [
             'autoablesci=autoansign.web_ablesci:main',  # 直接引用脚本文件
             'automuchong=autoansign.web_muchong:main',  # 直接引用脚本文件
+            'autotiyanbi=autoansign.web_tiyanbi:main',  # 直接引用脚本文件
             'autourl=autoansign.web_url:main',  # 直接引用脚本文件
             'autoalicloud=autoansign.app_alicloud:main',  # 直接引用脚本文件
         ],
