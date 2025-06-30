@@ -30,6 +30,7 @@ none
 * 只能在境内的模拟器/容器内执行, 这些网站在不同地区显示的内容不同.
 * `web_ablesci`, [科研通](https://www.ablesci.com/)每日签到
 * `web_muchong`, ~~[小木虫](https://muchong.com/bbs/)每日签到~~
+* `web_tiyanbi`, [王者荣耀](https://pvp.qq.com/cp/a20161115tyf/page2.shtml)体验币兑换皮肤碎片
 
 ![连续签到50天](https://private-user-images.githubusercontent.com/174871503/397235351-c1a55b1f-a8f0-4370-aec5-211ef40a1564.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ1ODY3NzUsIm5iZiI6MTczNDU4NjQ3NSwicGF0aCI6Ii8xNzQ4NzE1MDMvMzk3MjM1MzUxLWMxYTU1YjFmLWE4ZjAtNDM3MC1hZWM1LTIxMWVmNDBhMTU2NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxOVQwNTM0MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NWE2NDU5ZjVmNzQxODgzNmQ5YjJkNTg2NzAxNzFkMWZhNTE5NmM0OTRmZGM4NDA2NmFmMjM0OGExNGI4NTZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dt6sksZbmDukgtwRmvqSPf9T0mvvmhLL7F_ZIMtU88w)
 
